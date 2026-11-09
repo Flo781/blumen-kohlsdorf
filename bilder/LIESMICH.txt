@@ -1,0 +1,29 @@
+Fotos für die Website von Blumen Kohlsdorf
+==========================================
+
+Die Fotos einfach mit genau diesen Namen in diesen Ordner legen (JPG).
+Fehlt ein Foto, bleibt die Seite trotzdem vollständig: Das Schaufenster zeigt
+dann den gezeichneten Strauß, leere Galerieplätze verschwinden von selbst und
+ohne ein einziges Galeriefoto wird der Abschnitt „Aus dem Laden“ ausgeblendet.
+
+schaufenster.jpg   Hochformat (4:5), z. B. 940 x 1175 px
+                   Ladenfront oder Lieblingsstrauß, das große Bild oben
+
+hochzeit.jpg       Querformat (4:3), z. B. 1200 x 900 px, Brautstrauß
+trauer.jpg         Querformat (4:3), z. B. 1200 x 900 px, Kranz, Gesteck oder Trauerherz
+
+galerie-1.jpg      quadratisch, groß           z. B. Strauß in Rosé
+galerie-2.jpg      quadratisch                 z. B. Trauerherz
+galerie-3.jpg      Hochformat                  z. B. Pflanzen vor der Tür
+galerie-4.jpg      quadratisch                 z. B. Kranz zur Jahreszeit
+galerie-5.jpg      Querformat (2:1)            z. B. Blick in den Laden
+galerie-6.jpg      Querformat (2:1)            z. B. Gesteck
+
+Bildunterschriften und Alternativtexte stehen in index.html direkt beim
+jeweiligen <img>; bitte passend zum echten Foto anpassen.
+
+Tipp: Fotos vor dem Hochladen auf höchstens 1600 px Kantenlänge verkleinern
+(z. B. mit squoosh.app), dann lädt die Seite auch auf dem Handy schnell.
+
+Nur Fotos verwenden, die Blumen Kohlsdorf gehören oder für die es eine
+Erlaubnis gibt.
